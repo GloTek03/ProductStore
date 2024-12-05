@@ -1,0 +1,15 @@
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\appsettings.json
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\FPT_University\Semester_8\2_PRN231\Lab_Code\Lab3_IdentityAjaxASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
